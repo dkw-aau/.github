@@ -50,3 +50,11 @@ This project is concerned with developing analytic techniques over medical data.
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
+### Christian Aebeloe's PhD work on Decentralized Knowledge Graphs on the Web
+
+* [Lothbrok](https://github.com/dkw-aau/Lothbrok-Java)
+* [Star Pattern Fragments](https://github.com/dkw-aau/StarPatternFragments)
+* [Prefix-Partitioned Bloom Filters](https://github.com/dkw-aau/PPBFs)
+* [Piqnic](https://github.com/dkw-aau/PIQNIC)
+* [ColChain](https://github.com/dkw-aau/ColChain-Java)
+* [WiseKG](https://github.com/dkw-aau/WiseKG-Java)
