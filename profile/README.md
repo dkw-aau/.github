@@ -50,3 +50,6 @@ This project is concerned with developing analytic techniques over medical data.
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
+### Tomer Sagi's work on Data Integration
+
+* [Geenralized Spatio Temporal Entity Resolution (With Qais Abu-Hussain)](https://github.com/dkw-aau/general-st-er)
