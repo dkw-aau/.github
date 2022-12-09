@@ -16,7 +16,7 @@ The following are a list of repositories. This list is intended to help people f
 ### Medical Analytics
 
 This project is concerned with developing analytic techniques over medical data. 
-
+* [Medic Transformers](https://github.com/dkw-aau/medic_transformer) Code for transforming patient EHR data into Event sequences and using Transformer models to learn. 
 * [Patient Graph Feature Inititalization](https://github.com/dkw-aau/graph_embedding_initialization) Experimental code for pre-initializing node features of an EHR graph using auxiliary domein hierarchies
 * [MIMIC for AIIM](https://github.com/dkw-aau/mimic_for_aiim) MIMIC data experiments for AIM publication: Assigning diagnosis codes from medication history
 * [Alert LPR](https://github.com/dkw-aau/alert-lpr) LPR experiments for AIM publication: Assigning diagnosis codes from medication history
