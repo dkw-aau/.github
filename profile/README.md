@@ -10,6 +10,7 @@ The following are a list of repositories. This list is intended to help people f
 
 ### General
 * [AAU Cheats](https://github.com/dkw-aau/aau-cheats)
+* [DKW Logo] (https://github.com/dkw-aau/logo)
 * [.github](https://github.com/dkw-aau/.github) Group level admin repository
 
 
