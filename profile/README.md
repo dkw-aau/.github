@@ -34,7 +34,7 @@ This project is concerned with developing analytic techniques over medical data.
 * [Leapfrog RDF Benchmark](https://github.com/dkw-aau/leapfrog-rdf-benchmark)
 
 
-### Daniel Hernandez's work on Provenance
+### SPARQL Provenance
 
 * [SPARQLprov VLDB2021](https://github.com/dkw-aau/SPARQLprov-VLDB2021) Experiment reproducibility for SPARQLprov VLDB 2021 paper
 * [SPARQLprov](https://github.com/dkw-aau/SPARQLprov) A query rewriting based tool to compute the provenance of SPARQL answer
