@@ -45,11 +45,12 @@ This project is concerned with developing analytic techniques over medical data.
 * [SPARQL PROV BTC](https://github.com/dkw-aau/sparql-prov-btc) Provenance for SPARQL queries via Query Rewriting: BTC benchmark
 
 
-### Kashif Rabbani's PhD work on SHACL shapes extraction and SPARQL query optimization
+### SHACL shapes extraction and SPARQL query optimization
 
 * [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
+
 
 ### Tomer Sagi's work on Data Integration
 
