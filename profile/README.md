@@ -55,6 +55,7 @@ This project is concerned with developing analytic techniques over medical data.
 ### RDF/SPARQL-star
 
 * [SPARQL-star Benchmark](https://github.com/dkw-aau/dkw-aau/SPARQL-star-Benchmark)
+* [SPARQL-star Transformation]( https://github.com/dkw-aau/RDF-star-Transformation) Transforming RDF-star into property graphs
 
 
 ### Data Integration
