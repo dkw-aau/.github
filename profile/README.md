@@ -9,7 +9,7 @@ Our research group repositories are stored here.
 The following are a list of repositories. This list is intended to help people figure what is going on in the department and what could be of interest to them. So, if you create a new repository or a new project, please update the information on this README as well. Thank you!
 
 ### General
-* [AAU Cheats](https://github.com/dkw-aau/aau-cheats)
+* [AAU Hints](https://github.com/dkw-aau/aau-cheats)
 * [DKW Logo](https://github.com/dkw-aau/logo)
 * [.github](https://github.com/dkw-aau/.github) Group level admin repository
 
@@ -52,6 +52,11 @@ This project is concerned with developing analytic techniques over medical data.
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
 
-### Tomer Sagi's work on Data Integration
+### RDF/SPARQL-star
+
+* [SPARQL-star Benchmark](https://github.com/dkw-aau/dkw-aau/SPARQL-star-Benchmark)
+
+
+### Data Integration
 
 * [Geenralized Spatio Temporal Entity Resolution (With Qais Abu-Hussain)](https://github.com/dkw-aau/general-st-er)
