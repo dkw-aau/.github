@@ -50,6 +50,7 @@ This project is concerned with developing analytic techniques over medical data.
 * [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
+* [SHACTOR: SHapes ExtrACTOR from very large knowledge Graphs](https://github.com/dkw-aau/demo-shactor)
 
 
 ### RDF/SPARQL-star
