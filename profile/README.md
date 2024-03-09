@@ -45,8 +45,8 @@ This project is concerned with developing analytic techniques over medical data.
 * [SPARQL PROV BTC](https://github.com/dkw-aau/sparql-prov-btc) Provenance for SPARQL queries via Query Rewriting: BTC benchmark
 
 
-### SHACL shapes extraction and SPARQL query optimization
-
+### SHACL shapes extraction, KG to PG Transformation, and SPARQL query optimization
+* [Standardized SHACL Shapes-based PG transformation (S3PG)](https://github.com/dkw-aau/s3pg)
 * [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
